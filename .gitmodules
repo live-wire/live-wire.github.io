@@ -1,0 +1,3 @@
+[submodule "absent-sir"]
+	path = absent-sir
+	url = https://github.com/live-wire/absent-sir.git
