@@ -1,3 +1,6 @@
 [submodule "absent-sir"]
 	path = absent-sir
 	url = https://github.com/live-wire/absent-sir.git
+[submodule "cardgame"]
+	path = cardgame
+	url = https://github.com/live-wire/cardgame.git
