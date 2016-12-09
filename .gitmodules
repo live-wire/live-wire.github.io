@@ -4,3 +4,6 @@
 [submodule "cardgame"]
 	path = cardgame
 	url = https://github.com/live-wire/cardgame.git
+[submodule "appy-hours"]
+	path = appy-hours
+	url = https://github.com/live-wire/appy-hours.git
