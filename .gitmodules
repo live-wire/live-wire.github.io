@@ -7,3 +7,6 @@
 [submodule "appy-hours"]
 	path = appy-hours
 	url = https://github.com/live-wire/appy-hours.git
+[submodule "rsw"]
+	path = rsw
+	url = https://github.com/live-wire/rsw.git
