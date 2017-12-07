@@ -13,3 +13,6 @@
 [submodule "ip2k17"]
 	path = ip2k17
 	url = https://github.com/live-wire/ip2k17.git
+[submodule "terror"]
+	path = terror
+	url = https://github.com/live-wire/terror.git
