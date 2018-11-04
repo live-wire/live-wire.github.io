@@ -16,3 +16,6 @@
 [submodule "terror"]
 	path = terror
 	url = https://github.com/live-wire/terror.git
+[submodule "jacobshack"]
+	path = jacobshack
+	url = https://github.com/live-wire/jacobshack.git
