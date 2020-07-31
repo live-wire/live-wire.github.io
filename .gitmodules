@@ -19,3 +19,6 @@
 [submodule "jacobshack"]
 	path = jacobshack
 	url = https://github.com/live-wire/jacobshack.git
+[submodule "foodmarque"]
+	path = foodmarque
+	url = https://github.com/live-wire/foodmarque.git
