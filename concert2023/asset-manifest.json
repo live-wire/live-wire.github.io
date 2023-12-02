@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/concert/static/css/main.10d8ac1d.css",
-    "main.js": "/concert/static/js/main.8840c9bd.js",
-    "static/js/787.c39477bb.chunk.js": "/concert/static/js/787.c39477bb.chunk.js",
-    "index.html": "/concert/index.html",
-    "main.10d8ac1d.css.map": "/concert/static/css/main.10d8ac1d.css.map",
-    "main.8840c9bd.js.map": "/concert/static/js/main.8840c9bd.js.map",
-    "787.c39477bb.chunk.js.map": "/concert/static/js/787.c39477bb.chunk.js.map"
+    "main.css": "./static/css/main.10d8ac1d.css",
+    "main.js": "./static/js/main.fd74a9cd.js",
+    "static/js/787.c39477bb.chunk.js": "./static/js/787.c39477bb.chunk.js",
+    "index.html": "./index.html",
+    "main.10d8ac1d.css.map": "./static/css/main.10d8ac1d.css.map",
+    "main.fd74a9cd.js.map": "./static/js/main.fd74a9cd.js.map",
+    "787.c39477bb.chunk.js.map": "./static/js/787.c39477bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10d8ac1d.css",
-    "static/js/main.8840c9bd.js"
+    "static/js/main.fd74a9cd.js"
   ]
 }
